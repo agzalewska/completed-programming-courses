@@ -15,3 +15,7 @@ List of programming courses I've completed 📚:
 📋 The Git & Github Bootcamp: https://www.udemy.com/course/git-and-github-bootcamp/learn/lecture/24507864?start=0#overview
 
 📋 JavaScript: The Advanced Concepts: https://www.udemy.com/course/advanced-javascript-concepts/
+
+📋 Advanced CSS and Sass: Flexbox, Grid, Animations: https://www.udemy.com/course/advanced-css-and-sass/
+ 
+📋 Gatsby Tutorial and Projects Course: https://www.udemy.com/course/gatsby-tutorial-and-projects-course/learn/lecture/14891808?start=15#overview
