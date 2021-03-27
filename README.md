@@ -11,3 +11,7 @@ List of programming courses I've completed 📚:
 📋 React Tutorial and Projects Course: https://www.udemy.com/course/react-tutorial-and-projects-course/
 
 📋 The Complete Junior to Senior Web Developer Roadmap (2021): https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/
+
+📋 The Git & Github Bootcamp: https://www.udemy.com/course/git-and-github-bootcamp/learn/lecture/24507864?start=0#overview
+
+📋 JavaScript: The Advanced Concepts: https://www.udemy.com/course/advanced-javascript-concepts/
