@@ -7,3 +7,7 @@ List of programming courses I've completed 📚:
 📋 Learn Responsive Design: https://www.codecademy.com/learn/learn-responsive-design
 
 📋 The Complete Web Developer in 2021: Zero to Mastery: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
+
+📋 React Tutorial and Projects Course: https://www.udemy.com/course/react-tutorial-and-projects-course/
+
+📋 The Complete Junior to Senior Web Developer Roadmap (2021): https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/
