@@ -23,3 +23,5 @@ List of programming courses I've completed 📚:
 📋 The Modern Javascript Bootcamp Course (2021): https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17025050?start=15#overview
 
 📋 React Styled Components Tutorial and Project Course: https://www.udemy.com/course/styled-components-tutorial-and-project-course/learn/lecture/14287454?start=0#overview
+
+📋 JavaScript Algorithms and Data Structures Masterclass: https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
