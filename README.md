@@ -25,3 +25,5 @@ List of programming courses I've completed 📚:
 📋 React Styled Components Tutorial and Project Course: https://www.udemy.com/course/styled-components-tutorial-and-project-course/learn/lecture/14287454?start=0#overview
 
 📋 JavaScript Algorithms and Data Structures Masterclass: https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
+
+📋 Master the Coding Interview: Data Structures + Algorithms: https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/
