@@ -1,4 +1,4 @@
-List of programming courses I've completed 📚:
+List of programming courses I've completed 📚👩‍💻:
 
 📋 Front-End Engineer: https://www.codecademy.com/learn/paths/front-end-engineer-career-path
 
